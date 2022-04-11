@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UniversalStringResources</string>
+    <string name="min_name_length_error">The name must be at least %d characters long</string>
 </resources>
